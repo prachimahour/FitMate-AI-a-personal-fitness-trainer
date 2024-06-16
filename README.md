@@ -39,18 +39,12 @@ Welcome to FitMate AI: A Personal Fitness Trainer! This project aims to provide 
 ## Installation
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/fitmate-ai.git
-    cd fitmate-ai
+    git clone (https://github.com/prachimahour/FitMate-AI-a-personal-fitness-trainer/tree/main)
     ```
 
-2. **Install the required packages:**
+2. **Run the application:**
     ```sh
-    pip install -r requirements.txt
-    ```
-
-3. **Run the application:**
-    ```sh
-    streamlit run app.py
+    python -m streamlit run app.py
     ```
 
 ## Usage
